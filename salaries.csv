@@ -1,9 +1,0 @@
-job_title,experience_level,employment_type,salary_in_usd,company_location,remote_ratio
-Data Scientist,Entry,Full-time,70000,US,100
-Data Analyst,Entry,Full-time,60000,US,50
-Machine Learning Engineer,Mid,Full-time,120000,US,100
-Data Scientist,Mid,Full-time,110000,IN,0
-Data Analyst,Mid,Part-time,45000,IN,0
-Data Engineer,Senior,Full-time,150000,US,100
-Data Scientist,Senior,Full-time,140000,UK,50
-ML Engineer,Senior,Full-time,160000,US,100
